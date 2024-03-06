@@ -21,7 +21,7 @@
         },
         {
             "src":"/(.*)",
-            "dest":"WeatherBug/wsgi.py"
+            "dest":"OnlineTiffinManagement/wsgi.py"
         }
     ]
 }
